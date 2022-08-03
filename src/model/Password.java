@@ -1,3 +1,4 @@
+package model;
 
 public class Password {
     //Here we have a num , a type date which declare a collection of constants
