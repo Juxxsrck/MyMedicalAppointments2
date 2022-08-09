@@ -81,7 +81,7 @@ public class UIMenu {
                         emailCorrect = true;
                         //Obtener el usuario loggeado
                         patientLogged = p;
-                        //showPatientMenu
+                        UIPatientMenu.showPatientMenu();
                     }
                 }
             }
